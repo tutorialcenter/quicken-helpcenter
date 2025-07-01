@@ -5,7 +5,7 @@ Looking to manage your personal or business finances with ease? Quicken.com is y
 
 .. image:: get-started-here.png
    :alt: Quicken.com Download Portal
-   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2VuaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2VuaW5mby1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
    :align: center
 
 
